@@ -1,3 +1,4 @@
+## TAREFA FINALIZADO
 # PodeVotar - Teste de Software com ASP.NET e xUnit
 
 Este projeto foi desenvolvido como parte de uma atividade prática focada em **testes de software** utilizando **ASP.NET** e **xUnit**. O objetivo é que os alunos identifiquem e corrijam **bugs** no código que contém funções para validar as faixas etárias em que o voto é:
